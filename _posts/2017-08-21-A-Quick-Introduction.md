@@ -1,7 +1,7 @@
-----
+---
 layout: post
 title: A quick introduction!
-----
+---
 
 Hello! For my first post on this site I thought I would just give an overview of who I am and what I enjoy. I'm Rachael and I am a student at Queen's University Belfast studying an undergraduate MEng in Computer Science. I've mainly focused on software development including cloud development, machine learning and data analytics to name a few. However to get more experience with some web dev I've put together a portfolio site, which you can view [here.](https://www.rachaelcoulter.com)
 
